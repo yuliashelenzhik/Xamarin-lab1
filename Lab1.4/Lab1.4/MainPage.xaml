@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab1._4.MainPage">
+
+
+
+
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+         <Grid x:Name="matrixGrid" Padding="10" Background="#E7EBC5">
+        </Grid>
+
+        
+        
+
+
+        <!--<Frame BackgroundColor="#ff00ff" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>-->
+        <!--<Label Padding="0, 10" Text="Date Picker" FontSize="25" HorizontalOptions="CenterAndExpand"/>
+        <DatePicker />
+        <Label Padding="0, 10" Text="Time Picker" FontSize="25" HorizontalOptions="CenterAndExpand"/>
+        <TimePicker />-->
+
+
+
+        <!--<Label Text="Image" HorizontalOptions="CenterAndExpand" FontSize="30"/>
+        <Image Source="https://newsnreleases.com/wp-content/uploads/2021/08/Indoor-Skydive-virtual-reality-Red-Cartel.jpg" WidthRequest="350" HeightRequest="250" Aspect="AspectFit" />-->
+ <!--<Slider x:Name="fontSizeSlider" Minimum="10" Maximum="40" Value="20" MinimumTrackColor="LightBlue" MaximumTrackColor="OrangeRed" ThumbColor="Navy" />-->
+        <!--<Label Text="Drag the Slider element above" FontSize="20" />-->
+        <!--<StackLayout x:Name="labelStack" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+       <Label Text="Red" TextColor="Red" FontSize="20" />
+        <Label Text="Green" TextColor="Green" FontSize="20" />
+        <Label Text="Blue" TextColor="Blue" FontSize="20" />
+        <Label Text="Yellow" TextColor="Yellow" FontSize="20" />
+        <Label Text="Purple" TextColor="Purple" FontSize="20" />
+        <Label Text="Orange" TextColor="Orange" FontSize="20" />
+        <Label Text="Black" TextColor="Black" FontSize="20" />
+        <Label Text="Pink" TextColor="Pink" FontSize="20" />
+        <Label Text="Brown" TextColor="Brown" FontSize="20" />
+        <Label Text="Gray" TextColor="Gray" FontSize="20" />
+        <Label Text="Green Yellow" TextColor="GreenYellow" FontSize="20" />
+        <Label Text="Beige" TextColor="Beige" FontSize="20" />
+        <Label Text="Turquoise" TextColor="Turquoise" FontSize="20" />
+        <Label Text="Coral" TextColor="Coral" FontSize="20" />
+        <Label Text="Cyan" TextColor="Cyan" FontSize="20" />
+        <Label Text="Teal" TextColor="Teal" FontSize="20" />
+        <Label Text="Khaki" TextColor="Khaki" FontSize="20" />
+        <Label Text="Violet" TextColor="Violet" FontSize="20" />
+        <Label Text="Spring Green" TextColor="SpringGreen" FontSize="20" />
+        <Label Text="Navy" TextColor="Navy" FontSize="20" />
+        <Label Text="Chocolate" TextColor="Chocolate" FontSize="20" />
+        <Label Text="Dark Salmon" TextColor="DarkSalmon" FontSize="20" />
+        <Label Text="Gold" TextColor="Gold" FontSize="20" />
+</StackLayout>-->
+       <!--<Switch x:Name="toggleSwitch"
+            IsToggled="True"
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="CenterAndExpand"/>
+        <Label Text="Toggle Switch"
+           VerticalOptions="CenterAndExpand"
+           HorizontalOptions="Center"
+               FontSize="25"/>-->
+
+        <!--<Label Text="Label or TextBlock" Padding="0,10,40,10" FontSize="30" TextColor="#181818"/>-->
+        <!--<Entry Placeholder="Type your text here" HorizontalOptions="FillAndExpand" />-->
+        <!--<Entry IsPassword="True" HorizontalOptions="FillAndExpand"/>-->
+        <!--<Button Background="#83c5be" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Text="Button"/>-->
+        <!--<Label Text="Checkbox" FontSize="30" Margin="0,0,0,10"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <CheckBox IsChecked="True" Color="Red" Grid.Row="0" Grid.Column="0"/>
+            <Label Text="Option 1"
+                   FontAttributes="Bold"
+                   FontFamily="Arial"
+                   FontSize="18"
+                   VerticalOptions="CenterAndExpand"
+                   Grid.Row="0" Grid.Column="1"/>
+            
+            <CheckBox IsChecked="False" Color="Red" Grid.Row="1" Grid.Column="0"/>
+            <Label Text="Option 2"
+                   FontAttributes="Bold"
+                   FontFamily="Arial"
+                   FontSize="18"
+                   VerticalOptions="CenterAndExpand"
+                   Grid.Row="1" Grid.Column="1"/>
+        </Grid>
+
+        <Label Text="Radiobuttons" FontSize="30" Margin="0,40,0,10"/>
+
+         <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <RadioButton IsChecked="True" Grid.Row="0" Grid.Column="0"/>
+            <Label Text="Option 1"
+                   FontAttributes="Bold"
+                   FontFamily="Arial"
+                   FontSize="18"
+                   VerticalOptions="CenterAndExpand"
+                   Grid.Row="0" Grid.Column="1"/>
+            
+            <RadioButton IsChecked="False"  Grid.Row="1" Grid.Column="0"/>
+            <Label Text="Option 2"
+                   FontAttributes="Bold"
+                   FontFamily="Arial"
+                   FontSize="18"
+                   VerticalOptions="CenterAndExpand"
+                   Grid.Row="1" Grid.Column="1"/>
+        </Grid>-->
+        <!--<Grid Background="#83c5be" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">   
+          <Grid>
+ <Grid.RowDefinitions>
+ <RowDefinition />
+ <RowDefinition />
+ </Grid.RowDefinitions>
+ <Grid.ColumnDefinitions>
+ <ColumnDefinition />
+ <ColumnDefinition />
+ </Grid.ColumnDefinitions>
+ <Label x:Name="tb1" FontSize="25" Padding="40" Grid.Row="0"
+Grid.Column="0" Text="This" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Label>
+ <Label x:Name="tb2" FontSize="25" Padding="40" Grid.Row="0"
+Grid.Column="1" Text="is" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Label>
+ <Label x:Name="tb3" FontSize="25" Padding="40" Grid.Row="1"
+Grid.Column="0" Text="a" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Label>
+ <Label x:Name="tb4" FontSize="25" Padding="40" Grid.Row="1"
+Grid.Column="1" Text="grid" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Label>
+     <Button x:Name="bt" BackgroundColor="#ffffff" Text="Нажми меня!"
+HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Grid.Row="2"
+Grid.ColumnSpan="2" Clicked="OnButtonClicked"></Button>
+ </Grid>
+ </Grid>-->
+        <!--<Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>-->
+        <!--<Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>-->
+    </StackLayout>
+
+</ContentPage>
+

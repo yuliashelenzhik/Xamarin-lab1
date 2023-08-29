@@ -1,0 +1,15 @@
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/bin/Debug/netstandard2.0/Lab1.4.deps.json
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/bin/Debug/netstandard2.0/Lab1.4.dll
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/bin/Debug/netstandard2.0/ref/Lab1.4.dll
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/bin/Debug/netstandard2.0/Lab1.4.pdb
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/Lab1.4.csproj.AssemblyReference.cache
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/Lab1.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/Lab1.4.AssemblyInfoInputs.cache
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/Lab1.4.AssemblyInfo.cs
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/Lab1.4.csproj.CoreCompileInputs.cache
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/Lab1.4.dll
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/refint/Lab1.4.dll
+/Users/yuliayuste/Projects/Lab1.4/Lab1.4/Lab1.4/obj/Debug/netstandard2.0/Lab1.4.pdb
